@@ -1,27 +1,9 @@
-# Book Project using `bookmd`
+# Repository for FLL Coach handbook
 
-This repository contains the source and configuration to compile the Theobotics guide book using the mdbook Rust crate.
+This repository contains the source and configuration to compile the coaching handbook using the mdbook and github workflows.
 
 ## Structure
 
-- `fll-coach-book/src/` — Markdown source files for each chapter/section.
-- `fll-coach-book/src/SUMMARY.md` — Sets up organization of book's chapters and sections.
-- `fll-coach-book/book.toml` — Configuration file for mdbook.
-
-## Usage
-
-1. Install:
-
-   ```sh
-   cargo install mdbook
-   ```
-
-2. Build the book:
-
-   ```sh
-   cd fll-coach-book
-   mdbook serve --open
-   ```
-
-Your browser should open a tab to the compiled book. Updates you make to md files should render each time you save the md file.
-
+- `src/` — Markdown source files for each section of the book. The md files here and in direcories within `src/` are the pages of the book. Edit the md files' contents to make changes to the book.
+- `src/SUMMARY.md` — Sets up organization of book's sections.
+- `book.toml` — Configuration file for mdbook.
