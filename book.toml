@@ -3,7 +3,7 @@ authors = ["SalineFLL"]
 language = "en"
 multilingual = false
 src = "src"
-title = "FLL Challenge Coach Book"
+title = "Saline FLL Challenge Coach Book"
 
 [build]
 build-dir = "public"

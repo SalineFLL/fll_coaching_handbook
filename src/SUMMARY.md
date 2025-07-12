@@ -3,12 +3,12 @@
 [Introduction](./introduction.md)
 [Starting your team](./starting_team.md)
 
+# Season Syllabus
+- [Syllabus](syllabus/syllabus.md)
+
 # Competition
 - [Anatomy of a Competition](competition/competition.md)
 - [Judging session scoring rubrics](competition/rubrics.md)
-
-# Season Syllabus
-- [Syllabus](syllabus/syllabus.md)
 
 # Expectations of Coaches
 - [Intro](coaches/intro.md)
