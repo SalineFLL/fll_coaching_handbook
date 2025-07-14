@@ -4,7 +4,9 @@ The safety and well-being of our students are our highest priority. To create a 
 
 ### The Rule of Two
 
-Under no circumstances should a coach ever be alone with a single student. There must always be at least two adults present during any team-related activity. This policy protects both the students and our volunteer coaches.
+Under no circumstances should a coach ever be alone with either a single student, or a group of students. There must always be at least two adults present. This policy protects both the students and our volunteer coaches.
+
+Many students have their own cell phones and may attempt to text you. Although, as a matter of practice, texting directly with teammates is to be discouraged, if this does happen, you must let their parent and the child know that any texts to or from the child must have the parent on the text thread as well. As a matter of principle, if a parent and child are both on the text thread, this should be fine, but again, as a matter of practice, texting directly with a teammate is discouraged.
 
 ### Handling Private Conversations
 
