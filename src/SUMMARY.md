@@ -12,6 +12,7 @@
 
 # Expectations of Coaches
 - [Intro](coaches/intro.md)
+- [Youth protection](coaches/youth_protection.md)
 - [Maintaining shared space](coaches/space.md)
 - [Managing resources](coaches/resources.md)
 - [Reimbursement of expenses](coaches/reimbursement.md)

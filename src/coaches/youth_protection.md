@@ -1,0 +1,22 @@
+# Youth Protection and Two-Deep Mentorship
+
+The safety and well-being of our students are our highest priority. To create a safe and accountable environment, we adhere to a strict two-deep mentorship policy. All coaches are required to follow these guidelines without exception.
+
+### The Rule of Two
+
+Under no circumstances should a coach ever be alone with a single student. There must always be at least two adults present during any team-related activity. This policy protects both the students and our volunteer coaches.
+
+### Handling Private Conversations
+
+There may be times when you need to have a private conversation with a student, such as for a reprimand or to discuss a sensitive issue. To maintain transparency and safety, these conversations must be handled in one of two ways:
+
+1.  **In the Open:** The discussion can take place in an area set apart from the main group but still in full view of the other adults in the media center.
+2.  **With a Second Adult:** If more privacy is required, you may use one of the glass rooms at the back of the media center. However, a second adult must accompany you and the student into the room.
+
+### Drop-Off and Pick-Up Procedures
+
+To ensure the two-deep mentorship rule is followed from the very start of practice, coaches must enforce the following drop-off procedure:
+
+* **Parent Escort:** Parents must walk their child into the media center at drop-off.
+* **Confirming Two Adults:** This ensures that the parent can verify that at least two coaches are present before they leave.
+* **Parent Must Wait:** If a parent arrives and only one coach is present, the parent is required to stay until a second coach or another designated adult arrives.
