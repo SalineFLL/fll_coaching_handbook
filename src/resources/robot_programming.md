@@ -5,3 +5,5 @@ We are using Pybricks Code for the first time this year to program our robots. O
 [Pybricks code](code.pybricks.com)
 
 If you need your pybricks license, contact Jeremy.
+
+Please consider taking a simple bot home with you and reading through the [pybricks guide](https://pybricks.com/learn/making-programs/basic-robot-navigation/) to get you started!
