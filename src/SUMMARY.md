@@ -24,13 +24,9 @@
 
 # Coaching Resources
 - [Intro](resources/intro.md)
+- [Recipe](resources/recipe.md)
 - [Robot programming](resources/robot_programming.md)
 - [Who do I contact for...](resources/contacts.md)
 - [Links to FIRST resources](resources/first.md)
 - [YouTube videos and channels](resources/youtube_links.md)
-- [Expert interview questions](resources/interview_questions.md)
-- [Robot data sheet](resources/robot_data_sheet.md)
-- [Mission model data sheet](resources/mission_data_sheet.md)
-- [Core values specialist sheet](resources/core_values.md)
-- [Skills specialist sheet](resources/skills.md)
 
