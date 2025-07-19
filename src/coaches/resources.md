@@ -17,3 +17,13 @@ Our club has two folding robot game tables and one flat table that must be carri
 ## Innovation project resources
 
 Teams must decide what extra items they need to purchase to build their innovation project. Our club has sufficient financial resources that a team can spend up to $400 on their innovation project, if necessary. If your team needs to spend more, please consult with Jeremy. He may request that you seek sponsors to donate funds to help fund the club.
+
+## Special LEGO pieces
+
+There are certain specialized LEGO pieces that should only be used in special cases, whereas other LEGO pieces that are less expensive can be used in most other cases.
+
+* 2-axis beams are extremely useful for changing the axis along which you're pinning LEGO. We have a handful of 2-axis beams. Kids typically do not recognize the distinction between the 2-axis beams and a standard beam, for which all holes align along the same axis. If you see your teammates using 2-axis beams when a single-axis beam will work, direct them to use the single-axis beam instead. For reference, single axis beams are about 4 cents per piece, wherease 2-axis beams cost about 20 cents per piece.
+
+Example image of ![2-axis beam](../images/two_axis_eleven_hole_beam.png)
+
+* Friction-free pins are used when pinning an item that must be able to rotate freely around the axis defined by the pin. The standard black pins we have are not friction-free. The gray and yellow pins are friction free, and should only be used when rotation is desired. For all other applications, black pins should be used.
