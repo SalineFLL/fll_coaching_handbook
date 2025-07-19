@@ -14,3 +14,4 @@ Central to the FLL experience are the FIRST Core Values. These values are the gu
 * **Inclusion:** We respect each other and embrace our differences.
 * **Teamwork:** We are stronger when we work together.
 * **Fun:** We enjoy and celebrate what we do!
+* **Gracious Professionalism:** We encourage high quality work, emphasize the value of others, and respect individuals and the community.
