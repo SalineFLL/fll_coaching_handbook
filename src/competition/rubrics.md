@@ -4,7 +4,7 @@ The team's success at competition is primarily determined by their ability to sp
 
 In the past, our teams have typically prepared large tri-fold boards for the presentations in front of judges. One side contains information about their robot design process, and the other has information about their innovation project process. Consult [the rubrics](https://drive.google.com/file/d/1sbdovg4exViOd3oRE62bEMWTilxyC7IF/view?usp=drive_link) to calibrate the information your team should place on each side.
 
-Judges *should* adhere to [a schedule](https://drive.google.com/file/d/1rXaBYmsA77_7waB2veSIbbPOPECUuKjF/view?usp=drive_link) during the judging session. Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
+Judges *should* adhere to [the judging session schedule](https://drive.google.com/file/d/1rXaBYmsA77_7waB2veSIbbPOPECUuKjF/view?usp=drive_link) during the judging session. Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
 
 Below is a link to the scoring rubrics from the 2024 FLL season. These will give you a good understanding of what the judges will be looking for during the competition.
 
