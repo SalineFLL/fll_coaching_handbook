@@ -7,8 +7,8 @@
 - [Syllabus](syllabus/syllabus.md)
 
 # Competition
-- [Anatomy of a Competition](competition/anatomy.md)
-- [Judging session scoring rubrics](competition/rubrics.md)
+- [Anatomy of a competition](competition/anatomy.md)
+- [Judging session information](competition/rubrics.md)
 
 # Expectations of Coaches
 - [Intro](coaches/intro.md)
