@@ -12,7 +12,7 @@ Please do not use more than your allotted share of the above items. The above li
 
 Our club has two folding robot game tables and one flat table that must be carried by two people to the tables in the media center, and clamped to the tables to be flattened. Two of our teams' regularly-scheduled practices are on Monday/Wednesday, and two are on Tuesday/Thursday.
 
-* Your team is only entitle to use a folding table on your regularly-scheduled practice day! If your team has extra practice scheduled on other teams' regular practice days, plan to use the flat table, leaving the folding table to the other two teams.
+* Your team is only entitled to use a folding table on your regularly-scheduled practice day! If your team has extra practice scheduled on other teams' regular practice days, plan to use the flat table, leaving the folding table to the other two teams.
 
 ## Innovation project resources
 
