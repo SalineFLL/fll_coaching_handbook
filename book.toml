@@ -8,3 +8,4 @@ title = "Saline FLL Challenge Coach Book"
 [build]
 build-dir = "public"
 
+[preprocessor.external-links]
