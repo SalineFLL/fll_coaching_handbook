@@ -25,7 +25,7 @@
 - [Intro](resources/intro.md)
 - [Recipe](resources/recipe.md)
 - [Robot programming](resources/robot_programming.md)
-- [Reimbursement of expenses](coaches/reimbursement.md)
+- [Reimbursement of expenses](resources/reimbursement.md)
 - [Who do I contact for...](resources/contacts.md)
 - [Links to FIRST resources](resources/first.md)
 - [YouTube videos and channels](resources/youtube_links.md)
