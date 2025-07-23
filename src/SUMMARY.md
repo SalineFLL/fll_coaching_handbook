@@ -15,7 +15,6 @@
 - [Youth protection](coaches/youth_protection.md)
 - [Maintaining shared space](coaches/space.md)
 - [Managing resources](coaches/resources.md)
-- [Reimbursement of expenses](coaches/reimbursement.md)
 - [Reserving the media center](coaches/reservations.md)
 
 # Expectations of Teammates
@@ -26,6 +25,7 @@
 - [Intro](resources/intro.md)
 - [Recipe](resources/recipe.md)
 - [Robot programming](resources/robot_programming.md)
+- [Reimbursement of expenses](coaches/reimbursement.md)
 - [Who do I contact for...](resources/contacts.md)
 - [Links to FIRST resources](resources/first.md)
 - [YouTube videos and channels](resources/youtube_links.md)
