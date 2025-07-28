@@ -31,3 +31,5 @@ The link will be updated when the 2025 season materials are available.
 1. Big board
 2. Their robot and attachments
 3. Binder containing [team info sheet](https://drive.google.com/file/d/1BKhL1-d2q-bZ34Ha7FCOqvlMSKhCjpcw/view?usp=drive_link) and printed code
+4. Innovation project
+5. Scripts for their 5-minute presentations on both robot design and innovation project
