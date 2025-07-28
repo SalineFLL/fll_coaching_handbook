@@ -1,6 +1,7 @@
 # Judging sessions
 
-The team's success at competition is primarily determined by their ability to speak with confidence and competence to adult judges, without any help from coaches. This is the judging session, during with the team will earn 75% of their overall score at competition.
+The team's success at competition is primarily determined by their ability to speak with confidence and competence to adult judges, without any help from coaches.
+This is the judging session, during which the team will earn 75% of their overall score at competition.
 
 In the past, our teams have typically prepared large tri-fold boards for the presentations in front of judges.
 One side contains information about their robot design process, and the other has information about their innovation project process.
