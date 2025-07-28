@@ -5,7 +5,7 @@ This is the judging session, during which the team will earn 75% of their overal
 
 In the past, our teams have typically prepared large tri-fold boards for the presentations in front of judges.
 One side contains information about their robot design process, and the other has information about their innovation project process.
-Here's an image of the Innovation Projects side one of RoboHive's past "Big Board":
+Here's an image of the "Innovation Project" side one of RoboHive's past "Big Board":
 
 ![big_board_image](../images/big_board_example.png)
 
