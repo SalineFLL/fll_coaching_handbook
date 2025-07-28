@@ -5,7 +5,7 @@ In the table below, we describe a the things that Jeremy will handle for you (an
 This is not intended to be a comprehensive list, but rather, is meant to set some basic expectations.
 
 | Jeremy | You |
-| ====== | === |
+| ------ | --- |
 | Team registration through FIRST portal | |
 | Letting head coaches know when they need to take action through the FIRST portal |  |
 | Team recruitment (you may be asked to help with this in the future) | Planning your team's activities for every practice, printing worksheets your team will need |
