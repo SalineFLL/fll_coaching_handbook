@@ -9,7 +9,7 @@ notes we all took over our years of coaching and compiled them into this [google
 
 Of particular note are the "Core Values", "Innovation Project", "Robot Design", and "Presentation" tab.
 
-Note the *"Schedule"* tab, which you should copy and paste into your own team's workbook to ensure
+Note the **"Schedule"** tab, which you should copy and paste into your own team's workbook to ensure
 you're hitting milestones when you need.
 
 Of course it is up to you to decide how you want to run your team, but these have been useful in the past.
