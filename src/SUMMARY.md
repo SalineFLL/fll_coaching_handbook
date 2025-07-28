@@ -23,7 +23,7 @@
 
 # Coaching Resources
 - [Intro](resources/intro.md)
-- [Recipe](resources/recipe.md)
+- [Recipe for season success](resources/recipe.md)
 - [Robot programming](resources/robot_programming.md)
 - [Reimbursement of expenses](resources/reimbursement.md)
 - [Who do I contact for...](resources/contacts.md)

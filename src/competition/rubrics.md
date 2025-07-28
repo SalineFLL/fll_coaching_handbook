@@ -2,9 +2,23 @@
 
 The team's success at competition is primarily determined by their ability to speak with confidence and competence to adult judges, without any help from coaches. This is the judging session, during with the team will earn 75% of their overall score at competition.
 
-In the past, our teams have typically prepared large tri-fold boards for the presentations in front of judges. One side contains information about their robot design process, and the other has information about their innovation project process. Consult [the rubrics](https://drive.google.com/file/d/1sbdovg4exViOd3oRE62bEMWTilxyC7IF/view?usp=drive_link) to calibrate the information your team should place on each side.
+In the past, our teams have typically prepared large tri-fold boards for the presentations in front of judges.
+One side contains information about their robot design process, and the other has information about their innovation project process.
+Here's an image of the Innovation Projects side one of RoboHive's past "[big boards](https://drive.google.com/file/d/1dWgPnZCABhIxExqyap8WQrdv5YHtSc4U/view?usp=drive_link)".
+Note the clearly defined sections, designed to make it very hard
+for judges to miss that we've included everything they're looking
+for in their rubrics on the board:
 
-Judges *should* adhere to [the judging session schedule](https://drive.google.com/file/d/1rXaBYmsA77_7waB2veSIbbPOPECUuKjF/view?usp=drive_link) during the judging session. Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
+* Identify
+* Design
+* Create
+* Iterate
+* Communicate
+
+Consult [the rubrics](https://drive.google.com/file/d/1sbdovg4exViOd3oRE62bEMWTilxyC7IF/view?usp=drive_link) to calibrate the information your team should place on each side.
+
+Judges *should* adhere to [the judging session schedule](https://drive.google.com/file/d/1rXaBYmsA77_7waB2veSIbbPOPECUuKjF/view?usp=drive_link) during the judging session.
+Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
 
 Below is a link to the scoring rubrics from the 2024 FLL season. These will give you a good understanding of what the judges will be looking for during the competition.
 
