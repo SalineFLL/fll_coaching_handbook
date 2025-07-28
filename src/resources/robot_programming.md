@@ -2,7 +2,7 @@
 
 We are using Pybricks Code for the first time this year to program our robots.
 
-[Pybricks code](code.pybricks.com)
+[Pybricks code](https://code.pybricks.com)
 
 You can find your team's pybricks licence [here](https://docs.google.com/spreadsheets/d/1wmigIlWk96c4rZnW1iBS2owpAYb45o1G9LGGEaVASCU/edit?usp=sharing). All coaches should have "Viewer" permissions, so if you do not have permission to view the file, contact Jeremy to get it.
 
