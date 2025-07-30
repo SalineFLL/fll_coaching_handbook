@@ -1,6 +1,7 @@
 # Summary
 
 [Introduction](./introduction.md)
+  - [contributing](./contributing.md)
 [Starting your team](./starting_team.md)
 
 # Season Syllabus
