@@ -6,7 +6,7 @@
 
 # Weekly and Season Syllabus
 - [Weekly](syllabus/weekly.md)
-- [Season](syllabus/syllabus.md)
+- [Season](syllabus/season.md)
 
 # Competition
 - [Anatomy of a competition](competition/anatomy.md)
