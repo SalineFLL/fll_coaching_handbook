@@ -4,8 +4,9 @@
 [Contributing](./contributing.md)
 [Starting your team](./starting_team.md)
 
-# Season Syllabus
-- [Syllabus](syllabus/syllabus.md)
+# Weekly and Season Syllabus
+- [Weekly](syllabus/weekly.md)
+- [Season](syllabus/syllabus.md)
 
 # Competition
 - [Anatomy of a competition](competition/anatomy.md)
