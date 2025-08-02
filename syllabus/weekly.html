@@ -1,0 +1,294 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Weekly - Saline FLL Challenge Coach Book</title>
+        <!-- Custom HTML head -->
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../introduction.html">Introduction</a></li><li class="chapter-item expanded affix "><a href="../contributing.html">Contributing</a></li><li class="chapter-item expanded affix "><a href="../starting_team.html">Starting your team</a></li><li class="chapter-item expanded affix "><li class="part-title">Weekly and Season Syllabus</li><li class="chapter-item expanded "><a href="../syllabus/weekly.html" class="active"><strong aria-hidden="true">1.</strong> Weekly</a></li><li class="chapter-item expanded "><a href="../syllabus/syllabus.html"><strong aria-hidden="true">2.</strong> Season</a></li><li class="chapter-item expanded affix "><li class="part-title">Competition</li><li class="chapter-item expanded "><a href="../competition/anatomy.html"><strong aria-hidden="true">3.</strong> Anatomy of a competition</a></li><li class="chapter-item expanded "><a href="../competition/rubrics.html"><strong aria-hidden="true">4.</strong> Judging session information</a></li><li class="chapter-item expanded affix "><li class="part-title">Expectations of Coaches</li><li class="chapter-item expanded "><a href="../coaches/intro.html"><strong aria-hidden="true">5.</strong> Intro</a></li><li class="chapter-item expanded "><a href="../coaches/youth_protection.html"><strong aria-hidden="true">6.</strong> Youth protection</a></li><li class="chapter-item expanded "><a href="../coaches/space.html"><strong aria-hidden="true">7.</strong> Maintaining shared space</a></li><li class="chapter-item expanded "><a href="../coaches/resources.html"><strong aria-hidden="true">8.</strong> Managing resources</a></li><li class="chapter-item expanded "><a href="../coaches/reservations.html"><strong aria-hidden="true">9.</strong> Reserving the media center</a></li><li class="chapter-item expanded affix "><li class="part-title">Expectations of Teammates</li><li class="chapter-item expanded "><a href="../teammates/intro.html"><strong aria-hidden="true">10.</strong> Intro</a></li><li class="chapter-item expanded "><a href="../teammates/code_of_conduct.html"><strong aria-hidden="true">11.</strong> Code of conduct</a></li><li class="chapter-item expanded affix "><li class="part-title">Coaching Resources</li><li class="chapter-item expanded "><a href="../resources/intro.html"><strong aria-hidden="true">12.</strong> Intro</a></li><li class="chapter-item expanded "><a href="../resources/recipe.html"><strong aria-hidden="true">13.</strong> Recipe for season success</a></li><li class="chapter-item expanded "><a href="../resources/robot_programming.html"><strong aria-hidden="true">14.</strong> Robot programming</a></li><li class="chapter-item expanded "><a href="../resources/reimbursement.html"><strong aria-hidden="true">15.</strong> Reimbursement of expenses</a></li><li class="chapter-item expanded "><a href="../resources/contacts.html"><strong aria-hidden="true">16.</strong> Who do I contact for...</a></li><li class="chapter-item expanded "><a href="../resources/first.html"><strong aria-hidden="true">17.</strong> Links to FIRST resources</a></li><li class="chapter-item expanded "><a href="../resources/youtube_links.html"><strong aria-hidden="true">18.</strong> YouTube videos and channels</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Saline FLL Challenge Coach Book</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="fll-weekly-practice-structure-for-coaches"><a class="header" href="#fll-weekly-practice-structure-for-coaches">FLL Weekly Practice Structure for Coaches</a></h1>
+<h2 id="overview-structuring-the-season-with-three-phases"><a class="header" href="#overview-structuring-the-season-with-three-phases">Overview: Structuring the Season with Three Phases</a></h2>
+<p>To help teams stay on track and ensure steady progress, practices should follow this three-phase program. Each phase builds on the previous one and gradually introduces more advanced concepts in robot design, coding, mission strategy, and the innovation project. This structure helps avoid last-minute cramming and promotes meaningful learning and teamwork. At the same time, teams should work consistently on Core Values, the Big Board, and Presentation Skills, which are integrated throughout all phases.</p>
+<h2 id="phase-1-team-foundations--robot-basics"><a class="header" href="#phase-1-team-foundations--robot-basics">Phase 1: Team Foundations &amp; Robot Basics</a></h2>
+<h3 id="goals"><a class="header" href="#goals">Goals:</a></h3>
+<ul>
+<li>Build team chemistry and introduce FLL expectations.</li>
+<li>Teach how practices work, including setup/cleanup and where materials are stored.</li>
+<li>Introduce and reinforce:
+<ul>
+<li>FLL Core Values</li>
+<li>Continuous Innovation Loop:
+<ul>
+<li>Identify – Understand the problem or challenge</li>
+<li>Design – Brainstorm and plan a solution</li>
+<li>Create – Build or implement the solution</li>
+<li>Iterate – Test, evaluate, and improve</li>
+<li>Communicate – Share results, progress, and ideas</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Begin construction of the LEGO game board stations.</li>
+<li>Build a simple, square robot base:
+<ul>
+<li>Compact design for maneuverability</li>
+<li>Drive motors on the bottom</li>
+<li>Accessory motors mounted on top</li>
+</ul>
+</li>
+<li>Introduce basic coding concepts (e.g., block coding or early Pybricks logic).</li>
+</ul>
+<h2 id="phase-2-coding--mission-strategy"><a class="header" href="#phase-2-coding--mission-strategy">Phase 2: Coding &amp; Mission Strategy</a></h2>
+<h3 id="goals-1"><a class="header" href="#goals-1">Goals:</a></h3>
+<ul>
+<li>Advance coding skills with a focus on Pybricks programming.</li>
+<li>Explore each mission station:
+<ul>
+<li>Understand scoring opportunities</li>
+<li>Begin strategic planning—missions to target and in what order.</li>
+</ul>
+</li>
+<li>Discuss competition rules:
+<ul>
+<li>2.5-minute run time</li>
+<li>How the team interacts with the robot and board during a match.</li>
+</ul>
+</li>
+<li>Start designing and testing attachments for selected missions.</li>
+<li>Apply the Continuous Innovation Loop:
+<ul>
+<li>Identify – Challenges with movement or accuracy</li>
+<li>Design – Attachments or changes</li>
+<li>Create – New code or hardware</li>
+<li>Iterate – Testing and adjustments</li>
+<li>Communicate – Share ideas and results</li>
+</ul>
+</li>
+</ul>
+<h2 id="phase-3-refinement--optimization"><a class="header" href="#phase-3-refinement--optimization">Phase 3: Refinement &amp; Optimization</a></h2>
+<h3 id="goals-2"><a class="header" href="#goals-2">Goals:</a></h3>
+<ul>
+<li>Optimize robot design, attachments, and code for accuracy and consistency.</li>
+<li>Improve point scoring strategy and mission execution.</li>
+<li>Run practice matches to simulate competition conditions.</li>
+<li>Fine-tune attachment switching and pit crew roles to save time.</li>
+<li>Use the Continuous Innovation Loop regularly:
+<ul>
+<li>Identify – What needs improvement</li>
+<li>Design – A solution or change</li>
+<li>Create – The update in code or hardware</li>
+<li>Iterate – Testing and refining</li>
+<li>Communicate – Success or remaining needs</li>
+</ul>
+</li>
+</ul>
+<h2 id="ongoing-throughout-all-phases"><a class="header" href="#ongoing-throughout-all-phases">Ongoing Throughout All Phases</a></h2>
+<h3 id="core-values"><a class="header" href="#core-values">Core Values:</a></h3>
+<ul>
+<li>Assign each student one of the six values to champion.</li>
+<li>Recite and reflect on values during team discussions.</li>
+<li>Reinforce behavior that demonstrates Discovery, Innovation, Impact, Inclusion, Teamwork, and Fun.</li>
+</ul>
+<h3 id="big-board"><a class="header" href="#big-board">Big Board:</a></h3>
+<ul>
+<li>Create a two-sided visual display showing both the robot game and the innovation project.</li>
+<li>Represent the Continuous Innovation Loop visually:
+<ul>
+<li>Identify, Design, Create, Iterate, Communicate</li>
+</ul>
+</li>
+<li>Use pictures, notes, sketches, and documentation from actual practices.</li>
+</ul>
+<h3 id="presentation-skills"><a class="header" href="#presentation-skills">Presentation Skills:</a></h3>
+<ul>
+<li>Draft and refine team speeches for judging.</li>
+<li>Ensure every student has a role and practices public speaking.</li>
+<li>Prepare for judge Q&amp;A with mock interviews.</li>
+</ul>
+<h3 id="continuous-innovation-loop"><a class="header" href="#continuous-innovation-loop">Continuous Innovation Loop:</a></h3>
+<ul>
+<li>Encourage every activity (robot work, coding, innovation project, and presentations) to follow these five steps:
+<ul>
+<li>Identify</li>
+<li>Design</li>
+<li>Create</li>
+<li>Iterate</li>
+<li>Communicate</li>
+</ul>
+</li>
+<li>Reinforce that this loop is not linear—teams should revisit steps as needed.</li>
+</ul>
+<h3 id="notebook-journaling-for-big-board"><a class="header" href="#notebook-journaling-for-big-board">Notebook Journaling for Big Board:</a></h3>
+<ul>
+<li>Every student should keep a practice notebook.</li>
+<li>Encourage frequent notes, sketches, code logs, and diagrams.</li>
+<li>These will become critical source material for the Big Board display and help students explain what they did and why.</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../starting_team.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                            <a rel="next" href="../syllabus/syllabus.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../starting_team.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a rel="next" href="../syllabus/syllabus.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+    </body>
+</html>
