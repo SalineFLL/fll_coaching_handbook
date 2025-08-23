@@ -8,7 +8,7 @@ FLL competitions are high-energy, all-day events that are both challenging and i
     * More judging session information can be found in the [Judging session scoring rubrics](./rubrics.md) section
 
 * **Robot Game Matches:** Teams will compete in four 2.5-minute robot game matches throughout the day. The goal is to score as many points as possible by having their autonomous robot complete missions on the game field.
-    * Rules for the robot game can be found in the "Resources" section of the [FIRST in Michigan website](https://firstinmichigan.us/FLL-Challenge/resources/)
+    * Rules for the robot game can be found in the "Season" section of the [FIRST Lego League website](https://www.firstlegoleague.org/season). Just **be sure to click the appropriate competition** (FLL Challenge or FLL Explore) type to get the correct information.
 
 * **Lunch and Downtime:** There will be a break for lunch. There is often fairly little downtime at competition, so keep the teammates close by between robot runs and judging.
 

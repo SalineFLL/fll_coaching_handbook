@@ -19,16 +19,12 @@ for in their rubrics on the board:
 * Iterate
 * Communicate
 
-Consult [the rubrics](https://drive.google.com/file/d/1sbdovg4exViOd3oRE62bEMWTilxyC7IF/view?usp=drive_link) to calibrate the information your team should place on each side.
-
-Judges *should* adhere to [the judging session schedule](https://drive.google.com/file/d/1rXaBYmsA77_7waB2veSIbbPOPECUuKjF/view?usp=drive_link) during the judging session.
-Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
-
-Below is a link to the scoring rubrics from the 2024 FLL season. These will give you a good understanding of what the judges will be looking for during the competition.
-
-The link will be updated when the 2025 season materials are available.
-
-[2024 Judging session rubrics](https://drive.google.com/file/d/1sbdovg4exViOd3oRE62bEMWTilxyC7IF/view?usp=drive_link)
+The followign documents can all be found [here](https://drive.google.com/drive/folders/1syAEI_URBhq7OEG9Lsa1I2XHPNbx_As7?usp=drive_link):
+* Judging rubrics,
+    - Use these to calibrate the information your team should place on each side of your big board.
+* Judging session schedule
+    - Judges *should* adhere to the judging session schedule during the judging session.
+    - Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
 
 ## Items teams must bring to judging sessions
 
