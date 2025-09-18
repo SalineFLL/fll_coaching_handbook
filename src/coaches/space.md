@@ -12,6 +12,8 @@ All of the following are tasks we expect coaches to delegate to the teammates. T
 - [ ] 2 Team bins on correct shelf along back wall of storage room
 - [ ] Robot game boads placed against wall in robotics room
 - [ ] If not taking your team's robot home to experiment, robot is charging on top shelf of roll-up cabinet
+- [ ] Media center furniture placed in its original location
+- [ ] If your team used a white board, it is erased. If you did not use a white board and are the last team to leave, please erase what other teams left behind.
 - [ ] Lock roll-up cabinet
 - [ ] Lock storage room door
 - [ ] Lock robotics room door from hallway
