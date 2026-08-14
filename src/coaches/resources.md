@@ -1,5 +1,7 @@
 # Managing Resources
 
+> **Applies to:** FLL-Challenge only
+
 Our club has a significant collection of LEGOs for teams to use. However, with four teams sharing these resources, coaches must ensure their team is using only its fair share. In the past, we have run out of commonly-used lego pieces, such as black pins, which should never happen. For some less commonly-used pieces, when we run low, it is the coaches' responsibility to let Jeremy know so that he can order more. Please monitor your team's use of shared LEGOs, and the club's stock of LEGO, so that all teams can have a positive experience.
 
 Each team is entitled to the following:

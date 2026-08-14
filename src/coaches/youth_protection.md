@@ -1,5 +1,7 @@
 # Youth Protection and Two-Deep Mentorship
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 The safety and well-being of our students are our highest priority. To create a safe and accountable environment, we adhere to a strict two-deep mentorship policy. All coaches are required to follow these guidelines without exception.
 
 ### Two-deep Mentorship

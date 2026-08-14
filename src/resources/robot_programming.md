@@ -1,5 +1,7 @@
 # Programming a robot
 
+> **Applies to:** FLL-Challenge only
+
 Helpful terms we use:
 
 * **Robot launch**: A launch is when, during the robot run a teammate will push a button to send the robot out the score some points. The robot should come bace to either the left or right launch/home areas. A robot run will comprise multiple robot launches. Launches are autonomous, aside from the teammates placing the robot into a launch area and pushing the buttons to initiate the correct launch.

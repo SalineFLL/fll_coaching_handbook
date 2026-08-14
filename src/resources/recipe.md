@@ -1,5 +1,7 @@
 # Example recipes for season success
 
+> **Applies to:** FLL-Challenge only
+
 The below example google sheets are resources we've come up with over the past several years which we've found to be very helpful in organizing and executing a successful season. You are STRONGLY ENCOURAGED to copy the entirety of each workbook and make updates for your own team's use.
 
 ## Aaron Atkinson's FLL recipe

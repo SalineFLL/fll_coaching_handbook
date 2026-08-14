@@ -1,5 +1,7 @@
 # Links to FIRST Resources
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 ## Team management.
 
 Jeremy will do much of this for you, but he will occasionally let you know when you need to take action via your FIRST dashboard to ensure your team can participate in competition.

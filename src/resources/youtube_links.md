@@ -1,5 +1,7 @@
 # YouTube Videos and Channels
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 * [FIRST LEGO League Official YouTube Channel](https://www.youtube.com/user/FIRSTLEGOLeague)
 * [BrickWise YouTube Channel](https://www.youtube.com/c/BrickWise)
 * [Zachary Trautwein YouTube Channel](https://www.youtube.com/@ZacharyTrautwein)

@@ -1,5 +1,7 @@
 # Starting Your Team
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 Welcome to the new season! One of your first tasks as a coach is to reach out to the parents of your team members. This initial communication is crucial for setting expectations and ensuring a smooth and successful season.
 
 You'll need to inform parents about the weekly practice schedule, emphasizing that these are required and letting them know the practice start date. It's also important to give them a heads-up about potential competition dates. While we won't know the exact dates until mid-season, they should be advised to keep the first and second weekends of December available.

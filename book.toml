@@ -9,3 +9,6 @@ title = "Saline FLL Challenge Coach Book"
 build-dir = "public"
 
 [preprocessor.external-links]
+
+[output.html]
+additional-css = ["theme/custom.css"]

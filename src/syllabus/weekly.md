@@ -1,5 +1,7 @@
 # FLL Weekly Practice Structure for Coaches
 
+> **Applies to:** FLL-Challenge only
+
 ## Overview: Structuring the Season with Three Phases
 
 To help teams stay on track and ensure steady progress, practices should follow this three-phase program. Each phase builds on the previous one and gradually introduces more advanced concepts in robot design, coding, mission strategy, and the innovation project. This structure helps avoid last-minute cramming and promotes meaningful learning and teamwork. At the same time, teams should work consistently on Core Values, the Big Board (see section [Judging sesson information](../competition/rubrics.md) for Big Board description), and Presentation Skills, which are integrated throughout all phases.

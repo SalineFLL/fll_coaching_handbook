@@ -31,4 +31,3 @@
 - [Who do I contact for...](resources/contacts.md)
 - [Links to FIRST resources](resources/first.md)
 - [YouTube videos and channels](resources/youtube_links.md)
-

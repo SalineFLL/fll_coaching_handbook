@@ -1,5 +1,7 @@
 # Introduction
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 Welcome to the Saline FIRST Robotics community, and thank you for volunteering to coach a FIRST LEGO League (FLL) Challenge team. Coaching is a significant commitment, but we are confident that you will find it to be one of the most rewarding experiences of your life. As FIRST co-founder Dean Kamen said, “We’re not building robots, we’re using robots to build kids.”
 
 While our Saline FLL teams are often fiercely competitive, and enjoy a high degree of success at regional and state competitions, our primary goal is to teach children that they can achieve anything by identifying a meaningful problem, creating a solid plan, and working diligently with a dedicated team.
@@ -28,14 +30,22 @@ FIRST has several different types of competitions, and their similar naming can 
 
 ### Saline's competition types
 
-At Saline we currently have one FLL-E team, comprising 2nd and 3rd graders. We have four FLL-C teams, four FTC teams, and one FRC team.
+At Saline we currently have two FLL-E teams, comprising 2nd and 3rd graders. We have four FLL-C teams, four FTC teams, and one FRC team.
 
 ### FLL teams
 
 The FLL team names are:
 
 * RoboBuzz (FLL-E)
+* RoboDrone (FLL-E)
 * RoboHornets
 * RoboSting
 * RoboHive
 * RoboSwarm
+
+### How to read this handbook
+
+Since this handbook serves coaches from both FLL-Explore and FLL-Challenge teams, every page is tagged, both here and in the left-hand navigation, to show who it's for:
+
+* <span class="tag tag-both">C+E</span> &mdash; applies to FLL-Challenge and FLL-Explore coaches alike
+* <span class="tag tag-c">C</span> &mdash; applies to FLL-Challenge coaches only

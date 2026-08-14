@@ -1,5 +1,7 @@
 # Season Syllabus: August - December 2025
 
+> **Applies to:** FLL-Challenge only
+
 This syllabus outlines the major milestones for the FLL season.
 
 * **Late August:** Season Kickoff! Teams are formed, and coaches receive their rosters. Coaches should contact their teams to introduce themselves and establish a regular practice schedule.

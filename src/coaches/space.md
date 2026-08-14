@@ -1,5 +1,7 @@
 # Maintaining Shared Space
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 All of the following are tasks we expect coaches to delegate to the teammates. They must learn to take care of our equipment and space, and this is fundamental to that learning.
 
 ## Team/coach clean-up checklist

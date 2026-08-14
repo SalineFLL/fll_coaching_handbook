@@ -1,5 +1,7 @@
 # Anatomy of a Competition Day
 
+> **Applies to:** FLL-Challenge only
+
 FLL competitions are high-energy, all-day events that are both challenging and incredibly fun. Here’s what you and your team can expect:
 
 * **Arrival and Pit Setup:** Coaches arrive early in the morning to check in and set up their "pit" area. This is the team's home base for the day, where teammates can practice, make adjustments to their robot, and relax between judging sessions and matches.

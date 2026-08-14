@@ -1,0 +1,112 @@
+/* Badges showing which program (FLL-Challenge / FLL-Explore) a page applies to.
+   Used inline in page content via <span class="tag ..."> (see introduction.md),
+   and in the sidebar nav below, where they're generated purely with CSS since
+   mdBook strips HTML out of chapter titles in SUMMARY.md before rendering the
+   sidebar. Keep this list in sync with the "Applies to:" line at the top of
+   each page and with SUMMARY.md's chapter list. */
+
+.tag {
+    display: inline-block;
+    margin-left: 0.4em;
+    padding: 0.05em 0.5em;
+    border-radius: 1em;
+    font-size: 0.72em;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.5;
+    vertical-align: middle;
+    white-space: nowrap;
+    border: 1px solid currentColor;
+}
+
+.tag-both,
+.sidebar-iframe-inner a[href$="introduction.html"]::after,
+.sidebar-iframe-inner a[href$="contributing.html"]::after,
+.sidebar-iframe-inner a[href$="starting_team.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/intro.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/youth_protection.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/space.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/reservations.html"]::after,
+.sidebar-iframe-inner a[href$="teammates/intro.html"]::after,
+.sidebar-iframe-inner a[href$="teammates/code_of_conduct.html"]::after,
+.sidebar-iframe-inner a[href$="resources/intro.html"]::after,
+.sidebar-iframe-inner a[href$="resources/reimbursement.html"]::after,
+.sidebar-iframe-inner a[href$="resources/contacts.html"]::after,
+.sidebar-iframe-inner a[href$="resources/first.html"]::after,
+.sidebar-iframe-inner a[href$="resources/youtube_links.html"]::after {
+    color: #1a7f37;
+    background-color: rgba(26, 127, 55, 0.12);
+}
+
+.tag-c,
+.sidebar-iframe-inner a[href$="syllabus/weekly.html"]::after,
+.sidebar-iframe-inner a[href$="syllabus/season.html"]::after,
+.sidebar-iframe-inner a[href$="competition/anatomy.html"]::after,
+.sidebar-iframe-inner a[href$="competition/rubrics.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/resources.html"]::after,
+.sidebar-iframe-inner a[href$="resources/recipe.html"]::after,
+.sidebar-iframe-inner a[href$="resources/robot_programming.html"]::after {
+    color: #0969da;
+    background-color: rgba(9, 105, 218, 0.12);
+}
+
+/* Shared pill styling + content for the CSS-generated sidebar badges. */
+.sidebar-iframe-inner a[href$="introduction.html"]::after,
+.sidebar-iframe-inner a[href$="contributing.html"]::after,
+.sidebar-iframe-inner a[href$="starting_team.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/intro.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/youth_protection.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/space.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/reservations.html"]::after,
+.sidebar-iframe-inner a[href$="teammates/intro.html"]::after,
+.sidebar-iframe-inner a[href$="teammates/code_of_conduct.html"]::after,
+.sidebar-iframe-inner a[href$="resources/intro.html"]::after,
+.sidebar-iframe-inner a[href$="resources/reimbursement.html"]::after,
+.sidebar-iframe-inner a[href$="resources/contacts.html"]::after,
+.sidebar-iframe-inner a[href$="resources/first.html"]::after,
+.sidebar-iframe-inner a[href$="resources/youtube_links.html"]::after,
+.sidebar-iframe-inner a[href$="syllabus/weekly.html"]::after,
+.sidebar-iframe-inner a[href$="syllabus/season.html"]::after,
+.sidebar-iframe-inner a[href$="competition/anatomy.html"]::after,
+.sidebar-iframe-inner a[href$="competition/rubrics.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/resources.html"]::after,
+.sidebar-iframe-inner a[href$="resources/recipe.html"]::after,
+.sidebar-iframe-inner a[href$="resources/robot_programming.html"]::after {
+    display: inline-block;
+    float: right;
+    margin-left: 0.5em;
+    padding: 0.05em 0.5em;
+    border-radius: 1em;
+    font-size: 0.68em;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    line-height: 1.5;
+    border: 1px solid currentColor;
+}
+
+.sidebar-iframe-inner a[href$="introduction.html"]::after,
+.sidebar-iframe-inner a[href$="contributing.html"]::after,
+.sidebar-iframe-inner a[href$="starting_team.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/intro.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/youth_protection.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/space.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/reservations.html"]::after,
+.sidebar-iframe-inner a[href$="teammates/intro.html"]::after,
+.sidebar-iframe-inner a[href$="teammates/code_of_conduct.html"]::after,
+.sidebar-iframe-inner a[href$="resources/intro.html"]::after,
+.sidebar-iframe-inner a[href$="resources/reimbursement.html"]::after,
+.sidebar-iframe-inner a[href$="resources/contacts.html"]::after,
+.sidebar-iframe-inner a[href$="resources/first.html"]::after,
+.sidebar-iframe-inner a[href$="resources/youtube_links.html"]::after {
+    content: "C+E";
+}
+
+.sidebar-iframe-inner a[href$="syllabus/weekly.html"]::after,
+.sidebar-iframe-inner a[href$="syllabus/season.html"]::after,
+.sidebar-iframe-inner a[href$="competition/anatomy.html"]::after,
+.sidebar-iframe-inner a[href$="competition/rubrics.html"]::after,
+.sidebar-iframe-inner a[href$="coaches/resources.html"]::after,
+.sidebar-iframe-inner a[href$="resources/recipe.html"]::after,
+.sidebar-iframe-inner a[href$="resources/robot_programming.html"]::after {
+    content: "C";
+}

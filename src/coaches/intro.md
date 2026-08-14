@@ -1,5 +1,7 @@
 # Expectations of Coaches
 
+> **Applies to:** FLL-Challenge & FLL-Explore
+
 This section outlines the expectations for coaches, including managing resources, maintaining shared spaces, and other administrative responsibilities.
 In the table below, we describe a the things that Jeremy will handle for you (and may ask for help with occasionally) vs. what you as a coach must handle.
 This is not intended to be a comprehensive list, but rather, is meant to set some basic expectations.
