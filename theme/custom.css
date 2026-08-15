@@ -3,7 +3,15 @@
    and in the sidebar nav below, where they're generated purely with CSS since
    mdBook strips HTML out of chapter titles in SUMMARY.md before rendering the
    sidebar. Keep this list in sync with the "Applies to:" line at the top of
-   each page and with SUMMARY.md's chapter list. */
+   each page and with SUMMARY.md's chapter list.
+
+   Selector note: with JS enabled (the normal case), mdBook renders the sidebar
+   directly into the main page as <nav id="sidebar"><mdbook-sidebar-scrollbox
+   class="sidebar-scrollbox">...</mdbook-sidebar-scrollbox></nav> via toc.js.
+   The <iframe class="sidebar-iframe-outer" src="toc.html"> is wrapped in a
+   <noscript> and only used as a no-JS fallback - and additional-css isn't even
+   injected into toc.html - so selectors must target .sidebar-scrollbox, not
+   the iframe, or the badges never appear for anyone browsing normally. */
 
 .tag {
     display: inline-block;
@@ -20,58 +28,58 @@
 }
 
 .tag-both,
-.sidebar-iframe-inner a[href$="introduction.html"]::after,
-.sidebar-iframe-inner a[href$="contributing.html"]::after,
-.sidebar-iframe-inner a[href$="starting_team.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/intro.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/youth_protection.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/space.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/reservations.html"]::after,
-.sidebar-iframe-inner a[href$="teammates/intro.html"]::after,
-.sidebar-iframe-inner a[href$="teammates/code_of_conduct.html"]::after,
-.sidebar-iframe-inner a[href$="resources/intro.html"]::after,
-.sidebar-iframe-inner a[href$="resources/reimbursement.html"]::after,
-.sidebar-iframe-inner a[href$="resources/contacts.html"]::after,
-.sidebar-iframe-inner a[href$="resources/first.html"]::after,
-.sidebar-iframe-inner a[href$="resources/youtube_links.html"]::after {
+.sidebar-scrollbox a[href$="introduction.html"]::after,
+.sidebar-scrollbox a[href$="contributing.html"]::after,
+.sidebar-scrollbox a[href$="starting_team.html"]::after,
+.sidebar-scrollbox a[href$="coaches/intro.html"]::after,
+.sidebar-scrollbox a[href$="coaches/youth_protection.html"]::after,
+.sidebar-scrollbox a[href$="coaches/space.html"]::after,
+.sidebar-scrollbox a[href$="coaches/reservations.html"]::after,
+.sidebar-scrollbox a[href$="teammates/intro.html"]::after,
+.sidebar-scrollbox a[href$="teammates/code_of_conduct.html"]::after,
+.sidebar-scrollbox a[href$="resources/intro.html"]::after,
+.sidebar-scrollbox a[href$="resources/reimbursement.html"]::after,
+.sidebar-scrollbox a[href$="resources/contacts.html"]::after,
+.sidebar-scrollbox a[href$="resources/first.html"]::after,
+.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after {
     color: #1a7f37;
     background-color: rgba(26, 127, 55, 0.12);
 }
 
 .tag-c,
-.sidebar-iframe-inner a[href$="syllabus/weekly.html"]::after,
-.sidebar-iframe-inner a[href$="syllabus/season.html"]::after,
-.sidebar-iframe-inner a[href$="competition/anatomy.html"]::after,
-.sidebar-iframe-inner a[href$="competition/rubrics.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/resources.html"]::after,
-.sidebar-iframe-inner a[href$="resources/recipe.html"]::after,
-.sidebar-iframe-inner a[href$="resources/robot_programming.html"]::after {
+.sidebar-scrollbox a[href$="syllabus/weekly.html"]::after,
+.sidebar-scrollbox a[href$="syllabus/season.html"]::after,
+.sidebar-scrollbox a[href$="competition/anatomy.html"]::after,
+.sidebar-scrollbox a[href$="competition/rubrics.html"]::after,
+.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
+.sidebar-scrollbox a[href$="resources/recipe.html"]::after,
+.sidebar-scrollbox a[href$="resources/robot_programming.html"]::after {
     color: #0969da;
     background-color: rgba(9, 105, 218, 0.12);
 }
 
 /* Shared pill styling + content for the CSS-generated sidebar badges. */
-.sidebar-iframe-inner a[href$="introduction.html"]::after,
-.sidebar-iframe-inner a[href$="contributing.html"]::after,
-.sidebar-iframe-inner a[href$="starting_team.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/intro.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/youth_protection.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/space.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/reservations.html"]::after,
-.sidebar-iframe-inner a[href$="teammates/intro.html"]::after,
-.sidebar-iframe-inner a[href$="teammates/code_of_conduct.html"]::after,
-.sidebar-iframe-inner a[href$="resources/intro.html"]::after,
-.sidebar-iframe-inner a[href$="resources/reimbursement.html"]::after,
-.sidebar-iframe-inner a[href$="resources/contacts.html"]::after,
-.sidebar-iframe-inner a[href$="resources/first.html"]::after,
-.sidebar-iframe-inner a[href$="resources/youtube_links.html"]::after,
-.sidebar-iframe-inner a[href$="syllabus/weekly.html"]::after,
-.sidebar-iframe-inner a[href$="syllabus/season.html"]::after,
-.sidebar-iframe-inner a[href$="competition/anatomy.html"]::after,
-.sidebar-iframe-inner a[href$="competition/rubrics.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/resources.html"]::after,
-.sidebar-iframe-inner a[href$="resources/recipe.html"]::after,
-.sidebar-iframe-inner a[href$="resources/robot_programming.html"]::after {
+.sidebar-scrollbox a[href$="introduction.html"]::after,
+.sidebar-scrollbox a[href$="contributing.html"]::after,
+.sidebar-scrollbox a[href$="starting_team.html"]::after,
+.sidebar-scrollbox a[href$="coaches/intro.html"]::after,
+.sidebar-scrollbox a[href$="coaches/youth_protection.html"]::after,
+.sidebar-scrollbox a[href$="coaches/space.html"]::after,
+.sidebar-scrollbox a[href$="coaches/reservations.html"]::after,
+.sidebar-scrollbox a[href$="teammates/intro.html"]::after,
+.sidebar-scrollbox a[href$="teammates/code_of_conduct.html"]::after,
+.sidebar-scrollbox a[href$="resources/intro.html"]::after,
+.sidebar-scrollbox a[href$="resources/reimbursement.html"]::after,
+.sidebar-scrollbox a[href$="resources/contacts.html"]::after,
+.sidebar-scrollbox a[href$="resources/first.html"]::after,
+.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after,
+.sidebar-scrollbox a[href$="syllabus/weekly.html"]::after,
+.sidebar-scrollbox a[href$="syllabus/season.html"]::after,
+.sidebar-scrollbox a[href$="competition/anatomy.html"]::after,
+.sidebar-scrollbox a[href$="competition/rubrics.html"]::after,
+.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
+.sidebar-scrollbox a[href$="resources/recipe.html"]::after,
+.sidebar-scrollbox a[href$="resources/robot_programming.html"]::after {
     display: inline-block;
     float: right;
     margin-left: 0.5em;
@@ -84,29 +92,29 @@
     border: 1px solid currentColor;
 }
 
-.sidebar-iframe-inner a[href$="introduction.html"]::after,
-.sidebar-iframe-inner a[href$="contributing.html"]::after,
-.sidebar-iframe-inner a[href$="starting_team.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/intro.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/youth_protection.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/space.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/reservations.html"]::after,
-.sidebar-iframe-inner a[href$="teammates/intro.html"]::after,
-.sidebar-iframe-inner a[href$="teammates/code_of_conduct.html"]::after,
-.sidebar-iframe-inner a[href$="resources/intro.html"]::after,
-.sidebar-iframe-inner a[href$="resources/reimbursement.html"]::after,
-.sidebar-iframe-inner a[href$="resources/contacts.html"]::after,
-.sidebar-iframe-inner a[href$="resources/first.html"]::after,
-.sidebar-iframe-inner a[href$="resources/youtube_links.html"]::after {
+.sidebar-scrollbox a[href$="introduction.html"]::after,
+.sidebar-scrollbox a[href$="contributing.html"]::after,
+.sidebar-scrollbox a[href$="starting_team.html"]::after,
+.sidebar-scrollbox a[href$="coaches/intro.html"]::after,
+.sidebar-scrollbox a[href$="coaches/youth_protection.html"]::after,
+.sidebar-scrollbox a[href$="coaches/space.html"]::after,
+.sidebar-scrollbox a[href$="coaches/reservations.html"]::after,
+.sidebar-scrollbox a[href$="teammates/intro.html"]::after,
+.sidebar-scrollbox a[href$="teammates/code_of_conduct.html"]::after,
+.sidebar-scrollbox a[href$="resources/intro.html"]::after,
+.sidebar-scrollbox a[href$="resources/reimbursement.html"]::after,
+.sidebar-scrollbox a[href$="resources/contacts.html"]::after,
+.sidebar-scrollbox a[href$="resources/first.html"]::after,
+.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after {
     content: "C+E";
 }
 
-.sidebar-iframe-inner a[href$="syllabus/weekly.html"]::after,
-.sidebar-iframe-inner a[href$="syllabus/season.html"]::after,
-.sidebar-iframe-inner a[href$="competition/anatomy.html"]::after,
-.sidebar-iframe-inner a[href$="competition/rubrics.html"]::after,
-.sidebar-iframe-inner a[href$="coaches/resources.html"]::after,
-.sidebar-iframe-inner a[href$="resources/recipe.html"]::after,
-.sidebar-iframe-inner a[href$="resources/robot_programming.html"]::after {
+.sidebar-scrollbox a[href$="syllabus/weekly.html"]::after,
+.sidebar-scrollbox a[href$="syllabus/season.html"]::after,
+.sidebar-scrollbox a[href$="competition/anatomy.html"]::after,
+.sidebar-scrollbox a[href$="competition/rubrics.html"]::after,
+.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
+.sidebar-scrollbox a[href$="resources/recipe.html"]::after,
+.sidebar-scrollbox a[href$="resources/robot_programming.html"]::after {
     content: "C";
 }
