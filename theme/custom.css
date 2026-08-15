@@ -41,7 +41,8 @@
 .sidebar-scrollbox a[href$="resources/reimbursement.html"]::after,
 .sidebar-scrollbox a[href$="resources/contacts.html"]::after,
 .sidebar-scrollbox a[href$="resources/first.html"]::after,
-.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after {
+.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after,
+.sidebar-scrollbox a[href$="coaches/resources.html"]::after {
     color: #1a7f37;
     background-color: rgba(26, 127, 55, 0.12);
 }
@@ -51,7 +52,6 @@
 .sidebar-scrollbox a[href$="syllabus/season.html"]::after,
 .sidebar-scrollbox a[href$="competition/anatomy.html"]::after,
 .sidebar-scrollbox a[href$="competition/rubrics.html"]::after,
-.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
 .sidebar-scrollbox a[href$="resources/recipe.html"]::after,
 .sidebar-scrollbox a[href$="resources/robot_programming.html"]::after {
     color: #0969da;
@@ -73,11 +73,11 @@
 .sidebar-scrollbox a[href$="resources/contacts.html"]::after,
 .sidebar-scrollbox a[href$="resources/first.html"]::after,
 .sidebar-scrollbox a[href$="resources/youtube_links.html"]::after,
+.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
 .sidebar-scrollbox a[href$="syllabus/weekly.html"]::after,
 .sidebar-scrollbox a[href$="syllabus/season.html"]::after,
 .sidebar-scrollbox a[href$="competition/anatomy.html"]::after,
 .sidebar-scrollbox a[href$="competition/rubrics.html"]::after,
-.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
 .sidebar-scrollbox a[href$="resources/recipe.html"]::after,
 .sidebar-scrollbox a[href$="resources/robot_programming.html"]::after {
     display: inline-block;
@@ -105,7 +105,8 @@
 .sidebar-scrollbox a[href$="resources/reimbursement.html"]::after,
 .sidebar-scrollbox a[href$="resources/contacts.html"]::after,
 .sidebar-scrollbox a[href$="resources/first.html"]::after,
-.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after {
+.sidebar-scrollbox a[href$="resources/youtube_links.html"]::after,
+.sidebar-scrollbox a[href$="coaches/resources.html"]::after {
     content: "C+E";
 }
 
@@ -113,7 +114,6 @@
 .sidebar-scrollbox a[href$="syllabus/season.html"]::after,
 .sidebar-scrollbox a[href$="competition/anatomy.html"]::after,
 .sidebar-scrollbox a[href$="competition/rubrics.html"]::after,
-.sidebar-scrollbox a[href$="coaches/resources.html"]::after,
 .sidebar-scrollbox a[href$="resources/recipe.html"]::after,
 .sidebar-scrollbox a[href$="resources/robot_programming.html"]::after {
     content: "C";
