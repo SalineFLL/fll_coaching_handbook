@@ -21,9 +21,9 @@ for in their rubrics on the board:
 * Iterate
 * Communicate
 
-The following documents can all be found [here](https://drive.google.com/drive/folders/1eF-Bqy3RYH8cr9Uabud2mLFpPD_WSnYr?usp=drive_link):
-* Judging rubrics,
-    - Use these to calibrate the information your team should place on each side of your big board.
+Judging rubrics can be found on the [FLL season materials](https://www.firstinspires.org/resources/library/fll/season-materials) page, under the "Founders Edition Grades 4-8 (Challenge)" section (ignore the grade range -- see [Links to FIRST Resources](../resources/first.md)). Use these to calibrate the information your team should place on each side of your big board.
+
+Other documents can be found [here](https://drive.google.com/drive/folders/1eF-Bqy3RYH8cr9Uabud2mLFpPD_WSnYr?usp=drive_link):
 * Judging session schedule
     - Judges *should* adhere to the judging session schedule during the judging session.
     - Coaches must familiarize themselves with the schedule and train their team to adhere to it during judging practice sessions.
