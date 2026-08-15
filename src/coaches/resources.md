@@ -1,16 +1,18 @@
 # Managing Resources
 
-> **Applies to:** FLL-Challenge only
+> **Applies to:** FLL-Challenge & FLL-Explore
 
 Our club has a significant collection of LEGOs for teams to use. However, with four teams sharing these resources, coaches must ensure their team is using only its fair share. In the past, we have run out of commonly-used lego pieces, such as black pins, which should never happen. For some less commonly-used pieces, when we run low, it is the coaches' responsibility to let Jeremy know so that he can order more. Please monitor your team's use of shared LEGOs, and the club's stock of LEGO, so that all teams can have a positive experience.
 
-Each team is entitled to the following:
+Each FLL-Challenge team is entitled to the following:
 * Two Spike Prime hubs
 * Four small motors
 * Four large motors
 * Four light sensors
 
 Please do not use more than your allotted share of the above items. The above list comprises the necessary elements to build two identical robots. We typically recommend teams build two identical robots. This allows each team to program robot missiong in parallel, and it provides robustness on competition day. Sometimes a hub fails. You don't want your team to be without a functioning robot at competition!
+
+Our FLL-Explore program is fairly new and growing rapidly, so we don't yet have a similarly-established stock of shared parts for those teams. FLL-Explore coaches should feel free to reach out to Jeremy to buy new motors, hubs, and other items as they need them. Jeremy can often buy these items tax-free using the FLL account.
 
 Our club has two folding robot game tables and one flat table that must be carried by two people to the tables in the media center, and clamped to the tables to be flattened. Two of our teams' regularly-scheduled practices are on Monday/Wednesday, and two are on Tuesday/Thursday.
 
