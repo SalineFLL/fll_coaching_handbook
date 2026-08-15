@@ -1,6 +1,6 @@
 # Programming a robot
 
-> **Applies to:** FLL-Challenge only
+> **Applies to:** FLL-Challenge & FLL-Explore
 
 Helpful terms we use:
 
@@ -22,6 +22,12 @@ In building a program with a low score, they'll have made a good starting plan!
 Keep these plans (maybe glue them to a sheet) to place them on the big board.
 Then, they can implement their plan in Pybricks Code.
 
+
+## Coding using the LEGO Education SPIKE App (FLL-Explore)
+
+FLL-Explore teams can program using the [LEGO Education SPIKE App](https://education.lego.com/en-us/downloads/spike-app/software/), which has a simpler, more visual block-based interface than Pybricks Code. Coaches should download the SPIKE App for their team's use.
+
+That said, some kids -- even a few 3rd graders -- are ready for the added power and flexibility of Pybricks Code (see below). Don't hesitate to let an eager teammate give Pybricks a try if the SPIKE App starts to feel limiting.
 
 ## Coding using Pybricks
 
