@@ -4,6 +4,10 @@
 
 The safety and well-being of our students are our highest priority. To create a safe and accountable environment, we adhere to a strict two-deep mentorship policy. All coaches are required to follow these guidelines without exception.
 
+### Required Training
+
+All coaches must complete FIRST's youth protection training, which takes about 75 minutes, through their [FIRST dashboard](https://www.firstinspires.org/login). Coaches must also complete the shorter "Data Privacy for Mentors" training, also found on the FIRST dashboard. You must complete both trainings before you can coach unsupervised.
+
 ### Two-deep Mentorship
 
 Under no circumstances should a coach ever be alone with either a single student, or a group of students. There must always be at least two adults present. This policy protects both the students and our volunteer coaches.
