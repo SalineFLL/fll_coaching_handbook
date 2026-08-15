@@ -21,7 +21,7 @@ for in their rubrics on the board:
 * Iterate
 * Communicate
 
-The followign documents can all be found [here](https://drive.google.com/drive/folders/1syAEI_URBhq7OEG9Lsa1I2XHPNbx_As7?usp=drive_link):
+The following documents can all be found [here](https://drive.google.com/drive/folders/1eF-Bqy3RYH8cr9Uabud2mLFpPD_WSnYr?usp=drive_link):
 * Judging rubrics,
     - Use these to calibrate the information your team should place on each side of your big board.
 * Judging session schedule

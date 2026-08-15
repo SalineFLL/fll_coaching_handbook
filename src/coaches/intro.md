@@ -16,4 +16,3 @@ This is not intended to be a comprehensive list, but rather, is meant to set som
 | Updating this handbook | Reading the coach handbook. Letting Jeremy know when updates to the handbook are necessary |
 | Getting team shirt ordering in place | Ensuring your team is on track to achieve important milestones |
 |  | Enforcing proper stewardship of shared space and resources |
- 
